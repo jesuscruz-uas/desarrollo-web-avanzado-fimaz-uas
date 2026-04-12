@@ -1,6 +1,5 @@
 <?php
-// Autor: Cruz - Desarrollo Web Avanzado
-// Dr. José Alfonso Aguilar Calderón
+
 
 require_once __DIR__ . '/../models/Futbolista.php';
 
