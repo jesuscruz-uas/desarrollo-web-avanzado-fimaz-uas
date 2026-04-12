@@ -1,6 +1,5 @@
 <?php
-// Autor: Cruz - Desarrollo Web Avanzado
-// Dr. José Alfonso Aguilar Calderón
+
 
 class Futbolista {
     private $conn;
